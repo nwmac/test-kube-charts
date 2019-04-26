@@ -3,9 +3,9 @@ entries:
   console:
   - apiVersion: v1
     appVersion: 2.4.0
-    created: 2019-04-26T16:03:31.506867085Z
+    created: 2019-04-26T16:16:29.243439121Z
     description: A Helm chart for deploying Stratos UI Console
-    digest: 5e5bd24c642545cc60178cc0b15112199ce3589de0e7e119b806d85d8d0d710a
+    digest: 0b1428b951253cda8a12161aff7f7e74a3707b39996ecf879e263bccdd22239d
     name: console
     urls:
     - https://github.com/nwmac/test-kube-charts/releases/download/2.4.0-rc1/console-helm-chart-2.4.0-4f5a3af58.tgz
@@ -37,4 +37,4 @@ entries:
     urls:
     - https://github.com/nwmac/test-kube-charts/releases/download/2.3.0-rc.3/console-helm-chart-2.3.0-rc.3-a728011a7.tgz
     version: 2.3.0-rc.3
-generated: 2019-04-26T16:03:31.505916062Z
+generated: 2019-04-26T16:16:29.242127129Z
